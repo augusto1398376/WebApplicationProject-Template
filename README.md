@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`SISTEMAS PARA INTERNE`
 
-`DISCIPLINA`
+`PROJETO 1 - APLICAÇÕES WEB`
 
-`SEMESTRE`
+`1º SEMESTRE / 2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+PROJETO:  SISTEMA DE CADASTROS PARA BOMBEIROS CIVIS E BRIGADISTAS -  A categoria de Bombeiros Civis e Brigadistas surgiu recentemente, com apnas sete anos de existência, já conta com mais de 32 mil profissionais apenas estados de Minas Gerais, com tantos profissionais estimados, é preocupante que o CNBC - Conselho Nacional da Categoria e os sindicatos de vários estados ainda não disponham de ferramentas de tecnologia como Sistema de Gestão para controle, administração e armazenamento de dados de tantos profissionais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* AUGUSTO GARCIA BACELAR PEREIRA
+* POLIANA SANTOS
+* PAULO HENRIQUE VIEIRA
+* RAMON VICENTE
+* TONI SALLES
+* CÉSAR
 
-## Orientador
+## Orientador: FABIANO COSTA TEIXEIRA
 
-* Nome completo do professor 1
+* FABIANO COSTA TEIXEIRA
 
 ## Instruções de utilização
 
