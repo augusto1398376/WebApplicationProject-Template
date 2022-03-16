@@ -6,7 +6,8 @@
 
 `1º SEMESTRE / 2022`
 
-PROJETO:  SISTEMA DE CADASTROS PARA BOMBEIROS CIVIS E BRIGADISTAS -  A categoria de Bombeiros Civis e Brigadistas surgiu recentemente, com apnas sete anos de existência, já conta com mais de 32 mil profissionais apenas estados de Minas Gerais, com tantos profissionais estimados, é preocupante que o CNBC - Conselho Nacional da Categoria e os sindicatos de vários estados ainda não disponham de ferramentas de tecnologia como Sistema de Gestão para controle, administração e armazenamento de dados de tantos profissionais.
+## PROJETO:
+SISTEMA DE CADASTROS PARA BOMBEIROS CIVIS E BRIGADISTAS -  A categoria de Bombeiros Civis e Brigadistas surgiu recentemente, com apenas sete anos de existência, já conta com mais de 32 mil profissionais apenas no estado de Minas Gerais, com tantos profissionais estimados, é preocupante que o CNBC - Conselho Nacional da Categoria e os sindicatos de vários estados ainda não disponham de ferramentas de tecnologia como Sistemas de Gestão para controle, administração e armazenamento de dados de tantos profissionais. A proposta desta equipe de trabalho é aproximar a tecnologia da informação para este setor trazendo soluções para o gerenciamneto dessa base dados.
 
 ## Integrantes
 
