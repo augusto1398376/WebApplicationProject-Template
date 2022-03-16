@@ -1,11 +1,15 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A profissão de Bombeiro Civil e Brigadista surgiu inicialmente do setor privado, onde existe uma demanda de segurança para Prevenção e Combate a Incêndio e Atendimento Pré-Hospitalar em locais de grande circulação de pessoas, como shopping centers, estádios de futebol, shows, eventos de confraternização e entretenimento, os quais os órgãos públicos e suas forças auxiliares como os Corpos de Bombeiros Militares e o SAMU, não tem mais a capacidade de suprir em atendimento.
+
+Eventos recentes como o incêndio que consumiu o museu de História Natural da Universidade Federal de Minas Gerais em JUN/2021 e o Museu Nacional do Brasil no Rio de Janeiro em JAN/2018, teriam grandes chances de serem evitados, se lá, tivessem presentes Bombeiros Militares ou profissionais como os Bombeiros Civis e Brigadistas capacitados na prevenção de combate a incêndio.
+
+A partir do ano de 2014 a categoria vem ganhando cada vez mais profissionais e, os órgãos privados responsáveis como o CNBC e os Sindicatos, ainda têm modestas formas de gerenciamento de informações e uma estatística sub-estimada de vários dados. A título de exemplo, o número de profissionais formados no Estado de Minas Gerais é uma estatística nos dias de hoje muito imprecisa, e que flutua nas ordens de grandeza entre 28 e 32 mil profissionais no estado de Minas Gerais com uma disparidade de precisão muito grnade.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Inicialmente, os sindicatos não contam com ferramentas de tecnologia como um sistema de informação que permita organizar, gerir e atualizar a base de dados de cadastros desses profissionais; que permita uma relação dessa base de dados com outra base de vagas de emprego, e que, por sua vez, estejam conectados com as empresas que necessitam dessa mão-de-obra. Observa-se também, uma grande necessidade de automação de rotinas como a emissão de carteiras de identificação profissional e certificados. Acredita-se que o desenvolvimento de sistemas para esta área em específico, poderá se tornar uma ferramenta útil e muito importante na promoção da categoria para o público em geral, para os profissionais e para as empresas da iniciativa privada.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Hoje o órgão nacional de Fiscalização da categoria, o CNBC, oferece sistema de cadastro com emissão de carteira profissional com certificação digital do governo assim como o corpo de Bombeiros Militar de Minas Gerais disponibilizou recentemente também, um sistema de cadastro para certificações e autorizações para profissionais e empresas como as escolas de formação, mas, nenhuma destas soluções de forma integrada e com recursos que possam melhorar e distribuir a aplicação para os envolvidos no negócio de forma integrada.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
